@@ -2,10 +2,10 @@ var p1button = document.getElementById("p1");
 var p2button = document.getElementById("p2");
 var display = document.querySelector("#display");
 var display2 = document.querySelector("#display2");
-
+var reset = document.querySelector("#reset");
 var inputnum = document.querySelector("input");
 var ber = document.getElementById("ber");
-var reset = document.querySelector("#reset");
+
 
 var p1Score =0;
 var p2Score =0;
